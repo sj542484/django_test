@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="046d4bba-38b3-4962-b62f-77df2872793f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="34483792">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="8" />
+          <entry key="json" value="3" />
+          <entry key="py" value="145" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="8" />
+          <entry key="JSON" value="3" />
+          <entry key="Python" value="145" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="html" value="891" />
+          <entry key="json" value="12" />
+          <entry key="py" value="7488" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="891" />
+          <entry key="JSON" value="12" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="7488" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testfarm/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <marker date="1559722746411" expanded="true" signature="2412:2413" ph="..." />
+                <marker date="1559722746411" expanded="true" signature="2470:2474" ph="..." />
+                <marker date="1559722746411" expanded="true" signature="2800:2801" ph="..." />
+                <marker date="1559722746411" expanded="true" signature="3161:3162" ph="..." />
+                <marker date="1559722746411" expanded="true" signature="3780:3785" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testfarm/test_program/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+                <marker date="1559723769429" expanded="true" signature="1155:1161" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="329" column="44" selection-start-line="329" selection-start-column="44" selection-end-line="329" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/support/event_firing_webdriver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="176" column="25" selection-start-line="176" selection-start-column="25" selection-end-line="176" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/firefox/firefox_profile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="162" column="22" lean-forward="true" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="536" column="45" lean-forward="true" selection-start-line="536" selection-start-column="45" selection-end-line="536" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59">
+              <caret line="2613" lean-forward="true" selection-start-line="2613" selection-end-line="2613" />
+              <folding>
+                <element signature="e#8850#10866#0" />
+                <element signature="e#10890#11153#0" />
+                <element signature="e#11259#11617#0" />
+                <element signature="e#11639#15066#0" />
+                <element signature="e#15094#19777#0" />
+                <element signature="e#21175#21704#0" />
+                <element signature="e#21750#22303#0" />
+                <element signature="e#22353#22467#0" />
+                <element signature="e#22513#27263#0" />
+                <element signature="e#27295#28302#0" />
+                <element signature="e#30027#32130#0" />
+                <element signature="e#32194#32515#0" />
+                <element signature="e#32592#33703#0" />
+                <element signature="e#33743#36955#0" />
+                <element signature="e#37031#37298#0" />
+                <element signature="e#37374#37916#0" />
+                <element signature="e#38009#43524#0" />
+                <element signature="e#43600#44135#0" />
+                <element signature="e#44213#44559#0" />
+                <element signature="e#44606#49169#0" />
+                <element signature="e#49217#49355#0" />
+                <element signature="e#49406#49940#0" />
+                <element signature="e#49986#50478#0" />
+                <element signature="e#50519#50625#0" />
+                <element signature="e#50655#50895#0" />
+                <element signature="e#50925#51939#0" />
+                <element signature="e#51977#53972#0" />
+                <element signature="e#54009#54103#0" />
+                <element signature="e#54140#56178#0" />
+                <element signature="e#56219#57902#0" />
+                <element signature="e#57940#58905#0" />
+                <element signature="e#59573#77150#0" />
+                <element signature="e#77190#85981#0" />
+                <element signature="e#87063#89940#0" />
+                <element signature="e#91238#92271#0" />
+                <element signature="e#92418#94109#0" />
+                <element signature="e#95158#99863#0" />
+                <element signature="e#99875#99997#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/43567606/_scproxy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testfarm/myutils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="541">
+              <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+              <folding>
+                <marker date="1559747859055" expanded="true" signature="949:950" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ReportPath</find>
+      <find>schoolNickname</find>
+      <find>app</find>
+      <find>app.weixin</find>
+      <find>file_name</find>
+      <find>command_executor</find>
+      <find>_commands</find>
+      <find>execute</find>
+      <find>session_id</find>
+      <find>ProxyHandler</find>
+      <find>_get_proxies</find>
+      <find>getproxies_macosx_sysconf</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>testfarm.test_program.app.weixin</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testfarm/test_wechat_school" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/element/school_library.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/element/school_manager_page.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/element/school_proxy_buy_page.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/element/school_proxy_sale_page.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/element/statement_page.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/element/teacher_manage.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/element/year_page.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_000_account/test_001_application.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_000_account/test_002_change_account_info.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_001_data_report/test_001_homework_statistics.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_001_data_report/test_002_integral_statistics.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_002_case_card/test_001_half_card.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_002_case_card/test_002_year_card_set_price.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_002_case_card/test_003_team_pay.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_002_case_card/test_004_year_card_cancl.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_002_case_card/test_005_half_card_cencl.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_003_creat_school/test_001_creat_school.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_005_statement/test_100_num_all.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_005_statement/test_102_student_bill.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_005_statement/test_103_inquiry.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_005_statement/test_104_class_inquiry.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_005_statement/test_106_class_inquiry_error.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_006_teacher_manage/test_001_invite_tea.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_006_teacher_manage/test_002_invite_tea_cancel.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_006_teacher_manage/test_003_tea_detail.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_007_school_proxy/test_001_proxy_buy.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_007_school_proxy/test_002_proxy_retreat.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_007_school_proxy/test_003_proxy_buy_amount.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_008_school_manager/test_001_creat_school_manager.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_009_library/test_001_modify.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/utils/toast_find.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/login_page.py" />
+        <option value="$PROJECT_DIR$/testfarm/templates/testproject/input_info.html" />
+        <option value="$PROJECT_DIR$/testfarm/models.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/conf/run_cases.py" />
+        <option value="$PROJECT_DIR$/testfarm/urls.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/conf/base_config.py" />
+        <option value="$PROJECT_DIR$/testfarm/templates/testproject/show_devices.html" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/app/student/login/object_page/login_page.py" />
+        <option value="$PROJECT_DIR$/mobile.json" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/utils/kill_pid.py" />
+        <option value="$PROJECT_DIR$/testfarm/views.py" />
+        <option value="$PROJECT_DIR$/testfarm/utils.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/conf/ports.py" />
+        <option value="$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/appium/webdriver/webdriver.py" />
+        <option value="$PROJECT_DIR$/testfarm/test_program/run.py" />
+        <option value="$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py" />
+        <option value="$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py" />
+        <option value="$PROJECT_DIR$/testfarm/myutils.py" />
+        <option value="$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/43567606/_scproxy.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name="testfarm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name="testfarm" type="462c0819:PsiDirectoryNode" />
+              <item name="test_program" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name="testfarm" type="462c0819:PsiDirectoryNode" />
+              <item name="test_program" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+              <item name="testone" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testfarm/test_program/conf" />
+      <recent name="$PROJECT_DIR$/testfarm/test_program" />
+      <recent name="$PROJECT_DIR$/testfarm/test_program/utils" />
+      <recent name="$PROJECT_DIR$/testfarm/test_program/app/student/login/test_data" />
+      <recent name="$PROJECT_DIR$/testfarm/test_program/app/student/login/object_page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="testone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testfarm/test_program" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testfarm/test_program/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="046d4bba-38b3-4962-b62f-77df2872793f" name="Default Changelist" comment="" />
+      <created>1559292690128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559292690128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5072289" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_009_library/test_001_modify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/weixin/test_data/phone_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/weixin/test_data/school_name.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/weixin/test_data/set_price.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/conf/basepage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/conf/report_path.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/storges/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/utils/click_bounds.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/utils/toast_find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/migrations/0002_auto_20190602_2040.py" />
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="233" column="8" selection-start-line="233" selection-start-column="8" selection-end-line="233" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/conf/decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/conf/case_strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/templates/testproject/input_info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16632">
+          <caret line="699" column="8" selection-start-line="699" selection-start-column="8" selection-end-line="699" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/conf/base_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/conf/run_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13824">
+          <caret line="576" selection-start-line="576" selection-end-line="576" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/weixin/test_cases/test_000_account/test_001_application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/weixin/element/main_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/templates/testproject/show_devices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#6;n#tr#1;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#td#6;n#tr#1;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/weixin/element/public.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/app/student/login/object_page/login_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4608">
+          <caret line="201" column="58" selection-start-line="201" selection-start-column="58" selection-end-line="201" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#637#673#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/utils/kill_pid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <marker date="1559706472876" expanded="true" signature="24:29" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/templates/testproject/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="493" lean-forward="true" selection-start-column="493" selection-end-column="493" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testone/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2361" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/conf/ports.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/43567606/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="5253" column="8" lean-forward="true" selection-start-line="5253" selection-start-column="8" selection-end-line="5253" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/appium/webdriver/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="35" column="36" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/firefox/firefox_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="162" column="22" lean-forward="true" selection-start-line="162" selection-start-column="22" selection-end-line="162" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/support/event_firing_webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="176" column="25" selection-start-line="176" selection-start-column="25" selection-end-line="176" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="329" column="44" selection-start-line="329" selection-start-column="44" selection-end-line="329" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/test_program/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+            <marker date="1559723769429" expanded="true" signature="1155:1161" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1559722746411" expanded="true" signature="2412:2413" ph="..." />
+            <marker date="1559722746411" expanded="true" signature="2470:2474" ph="..." />
+            <marker date="1559722746411" expanded="true" signature="2800:2801" ph="..." />
+            <marker date="1559722746411" expanded="true" signature="3161:3162" ph="..." />
+            <marker date="1559722746411" expanded="true" signature="3780:3785" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfarm/myutils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="70" column="32" selection-start-line="70" selection-start-column="32" selection-end-line="70" selection-end-column="32" />
+          <folding>
+            <marker date="1559747859055" expanded="true" signature="949:950" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Woker/test_IOS/virtual_env/lib/python3.6/site-packages/selenium/webdriver/remote/remote_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="536" column="45" lean-forward="true" selection-start-line="536" selection-start-column="45" selection-end-line="536" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/43567606/_scproxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="2613" lean-forward="true" selection-start-line="2613" selection-end-line="2613" />
+          <folding>
+            <element signature="e#8850#10866#0" />
+            <element signature="e#10890#11153#0" />
+            <element signature="e#11259#11617#0" />
+            <element signature="e#11639#15066#0" />
+            <element signature="e#15094#19777#0" />
+            <element signature="e#21175#21704#0" />
+            <element signature="e#21750#22303#0" />
+            <element signature="e#22353#22467#0" />
+            <element signature="e#22513#27263#0" />
+            <element signature="e#27295#28302#0" />
+            <element signature="e#30027#32130#0" />
+            <element signature="e#32194#32515#0" />
+            <element signature="e#32592#33703#0" />
+            <element signature="e#33743#36955#0" />
+            <element signature="e#37031#37298#0" />
+            <element signature="e#37374#37916#0" />
+            <element signature="e#38009#43524#0" />
+            <element signature="e#43600#44135#0" />
+            <element signature="e#44213#44559#0" />
+            <element signature="e#44606#49169#0" />
+            <element signature="e#49217#49355#0" />
+            <element signature="e#49406#49940#0" />
+            <element signature="e#49986#50478#0" />
+            <element signature="e#50519#50625#0" />
+            <element signature="e#50655#50895#0" />
+            <element signature="e#50925#51939#0" />
+            <element signature="e#51977#53972#0" />
+            <element signature="e#54009#54103#0" />
+            <element signature="e#54140#56178#0" />
+            <element signature="e#56219#57902#0" />
+            <element signature="e#57940#58905#0" />
+            <element signature="e#59573#77150#0" />
+            <element signature="e#77190#85981#0" />
+            <element signature="e#87063#89940#0" />
+            <element signature="e#91238#92271#0" />
+            <element signature="e#92418#94109#0" />
+            <element signature="e#95158#99863#0" />
+            <element signature="e#99875#99997#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

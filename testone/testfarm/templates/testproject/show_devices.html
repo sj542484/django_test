@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>连接设备详情</title>
+    <style>
+        td {border:1px solid green;border-radius:3px;height:30px;width:200px;align:center}
+        button {border:none}
+    </style>
+</head>
+<body>
+<center>
+    {% if devices == 1 %}
+        <span style="color:red">还没有连接设备</span>
+        <a href="javascript:location.reload();">点击刷新页面</a>
+    {% elif devices == 0 %}
+        <span style="color:red">设备信息还没有进行录入</span>
+        <a href="{% url 'inputinfo' %}">点击进入设备录入</a>
+    {% elif devices != None %}
+    <table>
+        <tr>
+            <td>ID</td>
+            <td>设备UUID</td>
+            <td>设备型号</td>
+            <td>设备名称</td>
+            <td>系统版本</td>
+            <td>运行状态</td>
+            <td>设备状态</td>
+            <td>报告文件</td>
+        </tr>
+        {% for i in devices %}
+            <tr>
+                <td>{{ i.id }}</td>
+                <td>{{ i.equipment_uuid }}</td>
+                <td>{{ i.equipment_model }}</td>
+                <td>{{ i.equipment_name }}</td>
+                <td>{{ i.platform_verion }}</td>
+                <td>
+                    {% if i.start_but_statue == 0 %}
+                        <a href="{% url 'startserver' i.equipment_name i.equipment_uuid i.platform_verion %}">开始运行</a>
+                    {% else %}
+                        <a href="{% url 'stopserver' i.gid i.equipment_uuid %}">终止运行</a>
+                    {% endif %}
+                </td>
+                <td>
+                    {% if i.statue_statue == 0 %}
+                        <input type="text" readonly name="statue" style="font-size:15px"  value="等待运行">
+                    {% elif i.statue_statue == 2 %}
+                        <input type="text" readonly name="statue" style="font-size:15px"  value="异常退出">
+                    {% else %}
+                        <input type="text" readonly name="statue" style="font-size:15px"  value="运行中">
+                    {% endif %}
+                </td>
+                <td>
+                    {% if show_report == '' %}
+                    <a target="_blank" href="{% url 'show_report' file_name %}">查看报告</a>
+                    {% else %}
+                    <a href="">暂无报告</a>
+                    {% endif %}
+
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+    <a href="{% url 'index' %}">go back</a>
+    <span style="margin:200px">已经连接 {{ len }} 台设备</span>
+    {% endif %}
+</center>
+
+</body>
+</html>
